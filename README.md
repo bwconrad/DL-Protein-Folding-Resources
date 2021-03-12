@@ -1,4 +1,4 @@
-# Amsfold Resources
+# Protein Folding Resources
 
 ## Alphafold 1
 - [Paper](https://www.nature.com/articles/s41586-019-1923-7)
