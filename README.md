@@ -21,8 +21,9 @@
 - [Steerable CNNs](https://arxiv.org/abs/1612.08498)
 - [Tensor field networks](https://arxiv.org/abs/1802.08219)
 - [E(n) Equivariant Graph Neural Networks](https://arxiv.org/abs/2102.09844)
+- [Exploiting Symmetries in Inference and Learning](https://www.youtube.com/watch?v=yCRBZ5kjSmI&t=1s)
 
-## Efficient Attention
+## Attention Layers
 - [Nyströmformer: A Nyström-Based Algorithm for Approximating
 Self-Attention](https://arxiv.org/abs/2102.03902)
     - [Yannic Kilcher's Video Overview](https://www.youtube.com/watch?v=m-zrcmRd7E4)
@@ -34,3 +35,10 @@ Self-Attention](https://arxiv.org/abs/2102.03902)
 - [BERTology Meets Biology: Interpreting Attention in Protein Language Models](https://arxiv.org/abs/2006.15222) 
     - [Yannic Kilcher's Video Overview](https://www.youtube.com/watch?v=q6Kyvy1zLwQ)
 - [Transformer protein language models are unsupervised structure learners](https://openreview.net/pdf?id=fylclEqgvgd)
+- [Biological structure and function emerge from scaling unsupervised learning to 250 million protein sequences](https://www.biorxiv.org/content/10.1101/622803v4)
+
+## Contact Prediction
+[Single Layers of Attention Suffice to Predict Protein Contacts](https://www.biorxiv.org/content/10.1101/2020.12.21.423882v1?rss=1)
+
+## Miscellaneous Transformers
+- [Improve Transformer Models with Better Relative Position Embeddings](https://arxiv.org/abs/2009.13658)
