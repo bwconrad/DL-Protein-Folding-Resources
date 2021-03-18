@@ -38,7 +38,7 @@ Self-Attention](https://arxiv.org/abs/2102.03902)
 - [Biological structure and function emerge from scaling unsupervised learning to 250 million protein sequences](https://www.biorxiv.org/content/10.1101/622803v4)
 
 ## Contact Prediction
-[Single Layers of Attention Suffice to Predict Protein Contacts](https://www.biorxiv.org/content/10.1101/2020.12.21.423882v1?rss=1)
+- [Single Layers of Attention Suffice to Predict Protein Contacts](https://www.biorxiv.org/content/10.1101/2020.12.21.423882v1?rss=1)
 
 ## Miscellaneous Transformers
 - [Improve Transformer Models with Better Relative Position Embeddings](https://arxiv.org/abs/2009.13658)
